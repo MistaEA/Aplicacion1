@@ -21,6 +21,10 @@ public class EjemploStringInmutable {
             return n.concat(" ".concat(" "+ Integer.parseInt(numero)));
         });
         System.out.println("num = " + num);
+        System.out.println("Mi nomre es:");
+
+        Integer numero2 = Integer.valueOf(32124);
+
 
     }
 }
