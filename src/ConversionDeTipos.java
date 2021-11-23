@@ -51,5 +51,11 @@ public class ConversionDeTipos {
 
         System.out.println("ffff = " + ffff);
 
+        String palabra = "Jorge";
+        String palabra1 = new String("Jorge");
+
+        System.out.println(palabra == palabra1);
+
+
     }
 }
